@@ -1,0 +1,108 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h2 class="page-title">Welcome to the Book Store!</h2>
+
+@if (ViewBag.ErrorMassage != null)
+{
+    <div class="error-message">
+        @ViewBag.ErrorMessage
+    </div>
+}
+
+<form asp-action="Order" method="post" class="order-form">
+
+    <div class="form-row">
+        <label for="title">Book Title</label>
+        <input type="text" id="title" name="title" class="input-field" placeholder="Enter the title of the book" />
+    </div>
+
+    <div class="form-row">
+        <label for="quantity">Quantity</label>
+        <input type="number" id="quantity" name="quantity" class="input-field" placeholder="Enter the quantity " />
+    </div>
+
+    <div class="form-row">
+        <label for="client">Client</label>
+        <input type="text" id="client" name="client" class="input-field" placeholder="Enter the client's name" />
+    </div>
+    <div class="front-row submit-row">
+        <button type="submit" class="submit-btn">Place Order</button>
+
+    </div>
+
+</form>
+
+<style>
+
+    .page-titile{
+        text-align:center;
+        font-size: 2.5em;
+        color: #4a4a4a;
+        margin-bottom: 30px;
+    }
+
+    .error-message {
+        text-align: center;
+        color: #d9534f;
+        font-size: 1.2em;
+        margin-bottom: 20px;
+    }
+
+    .order-form {
+        max-width: 500px;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: #f4f4f4;
+        border-radius: 12px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .form-row {
+        margin-bottom: 20px;
+    }
+
+    label {
+        display: block;
+        font-weight: bold;
+        margin-bottom: 5px;
+        color: #333;
+    }
+
+    .input-field {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        font-size: 1em;
+        background-color: #fff;
+    }
+
+        .input-field:focus {
+            border-color: #7aabd4;
+            box-shadow: 0 0 5px rgba(122, 171, 212, 0.3);
+            outline: none;
+        }
+
+    .submit-row {
+        text-align: center;
+    }
+
+    .submit-btn {
+        background-color: #5cb85c;
+        color: white;
+        padding: 12px 25px;
+        font-size: 1.2em;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+        .submit-btn:hover {
+            background-color: #4cae4c;
+        }
+</style>
+
+

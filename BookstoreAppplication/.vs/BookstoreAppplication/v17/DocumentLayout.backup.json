@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dijana\\Desktop\\config\\BookstoreAppplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD0E5F0-2D76-4A5F-B3E7-5EA464FF3080}|BankService\\BankService.csproj|c:\\users\\dijana\\desktop\\config\\bookstoreappplication\\bankservice\\bankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD0E5F0-2D76-4A5F-B3E7-5EA464FF3080}|BankService\\BankService.csproj|solutionrelative:bankservice\\bankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F4C47E-19EE-4894-994F-41D37BA095B2}|BookstoreService\\BookstoreService.csproj|c:\\users\\dijana\\desktop\\config\\bookstoreappplication\\bookstoreservice\\bookstoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F4C47E-19EE-4894-994F-41D37BA095B2}|BookstoreService\\BookstoreService.csproj|solutionrelative:bookstoreservice\\bookstoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37902CE4-68CF-4F14-94B9-5A72C071C0EB}|TransactionCoordinator\\TransactionCoordinator.csproj|c:\\users\\dijana\\desktop\\config\\bookstoreappplication\\transactioncoordinator\\transactioncoordinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37902CE4-68CF-4F14-94B9-5A72C071C0EB}|TransactionCoordinator\\TransactionCoordinator.csproj|solutionrelative:transactioncoordinator\\transactioncoordinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56415E8F-C3D7-464C-B00C-6D7ED1ADA4D2}|ValidationService\\ValidationService.csproj|c:\\users\\dijana\\desktop\\config\\bookstoreappplication\\validationservice\\validationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56415E8F-C3D7-464C-B00C-6D7ED1ADA4D2}|ValidationService\\ValidationService.csproj|solutionrelative:validationservice\\validationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValidationService.cs",
+              "DocumentMoniker": "C:\\Users\\Dijana\\Desktop\\config\\BookstoreAppplication\\ValidationService\\ValidationService.cs",
+              "RelativeDocumentMoniker": "ValidationService\\ValidationService.cs",
+              "ToolTip": "C:\\Users\\Dijana\\Desktop\\config\\BookstoreAppplication\\ValidationService\\ValidationService.cs",
+              "RelativeToolTip": "ValidationService\\ValidationService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwDQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T13:31:18.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransactionCoordinator.cs",
+              "DocumentMoniker": "C:\\Users\\Dijana\\Desktop\\config\\BookstoreAppplication\\TransactionCoordinator\\TransactionCoordinator.cs",
+              "RelativeDocumentMoniker": "TransactionCoordinator\\TransactionCoordinator.cs",
+              "ToolTip": "C:\\Users\\Dijana\\Desktop\\config\\BookstoreAppplication\\TransactionCoordinator\\TransactionCoordinator.cs",
+              "RelativeToolTip": "TransactionCoordinator\\TransactionCoordinator.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAYwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T12:18:21.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookstoreService.cs",
+              "DocumentMoniker": "C:\\Users\\Dijana\\Desktop\\config\\BookstoreAppplication\\BookstoreService\\BookstoreService.cs",
+              "RelativeDocumentMoniker": "BookstoreService\\BookstoreService.cs",
+              "ToolTip": "C:\\Users\\Dijana\\Desktop\\config\\BookstoreAppplication\\BookstoreService\\BookstoreService.cs",
+              "RelativeToolTip": "BookstoreService\\BookstoreService.cs",
+              "ViewState": "AgIAANgAAAAAAAAAAAAkwOcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T20:45:19.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankService.cs",
+              "DocumentMoniker": "C:\\Users\\Dijana\\Desktop\\config\\BookstoreAppplication\\BankService\\BankService.cs",
+              "RelativeDocumentMoniker": "BankService\\BankService.cs",
+              "ToolTip": "C:\\Users\\Dijana\\Desktop\\config\\BookstoreAppplication\\BankService\\BankService.cs",
+              "RelativeToolTip": "BankService\\BankService.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAAANgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T20:45:13.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
